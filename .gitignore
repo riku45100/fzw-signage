@@ -1,0 +1,24 @@
+# Dependencies
+/vendor/
+
+# Composer
+composer.phar
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+
+# Build artifacts
+/dist/
+/build/
+*.zip
